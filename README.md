@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a Junior Generative AI Engineer from Ethiopia, passionate about leveraging AI to solve complex problems. My expertise lies in developing RAG-based LLM applications for Q&A systems, fine-tuning LLMs, and exploring the potential of Generative AI.
+I'm a Data scientist and ML engineer with 3+ years of work experience and a strong foundation in Python, SQL, machine learning and mathematics. Proven ability to analyze complex datasets and deliver actionable insights by developing ML Models, training and fine-tuning.
 
 ## 🚀 Current Projects
 
