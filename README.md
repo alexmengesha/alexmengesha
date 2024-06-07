@@ -4,9 +4,9 @@
 
 I'm a Data scientist and ML engineer with 3+ years of work experience and a strong foundation in Python, SQL, machine learning and mathematics. Proven ability to analyze complex datasets and deliver actionable insights by developing ML Models, training and fine-tuning.
 
-## 🚀 Current Projects
+## 🚀 Recentlly Projects
 
-- **RAG-based LLM Applications for Q&A**: I'm currently working on enhancing question-answering systems using RAG pipelines and LLMs. Check out my project [here](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer).
+- **RAG-based LLM Applications for Q&A**: I have done a project that  enhancing question-answering systems using RAG pipelines and LLMs. Check out my project [here](https://github.com/alextakele/Advanced_RAG-LLM_Question-Answer).
 
 ## 📝 Articles
 
